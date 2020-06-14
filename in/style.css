@@ -1,0 +1,81 @@
+
+body
+{
+	background-image: url(s.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.group
+{
+	margin-top:180px;
+}
+.groupindex
+{
+	
+	
+	margin-top: 280px;
+}
+.grouplogin
+{
+	margin-top: 250px;
+}
+input[type=text], input[type=password] 
+{ 
+	width: 25%;
+    padding: 12px 20px;
+    margin: 4px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    text-align: center;        
+}
+a:link
+{
+	color :white;
+	
+	
+}
+a:visited
+{
+	color :black;
+	
+	
+}
+a:hover
+{
+	color : white;
+	
+
+}
+
+#but
+{
+	
+    background-color: #16BEE1;
+	color: black;
+	border: white;
+    padding: 10px				 
+
+}		
+#but:hover 
+{
+	opacity: 1;
+	background-color: #32A5BD;
+
+}
+#name
+{
+	margin-top: 280px;
+}
+#pwd
+{
+	margin-top: 280px;
+}
+#mail
+{
+	margin-top: 280px;
+}
+#error
+{
+	color:red;
+}
